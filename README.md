@@ -9,9 +9,9 @@ Main Menu
 x) Exit
 Please enter your choice:
 
-We'll refer to this screen as the main menu. Entering a number would select the corresponding user, while x would end the program.
+We'll refer to this screen as the main menu. Entering a number  selects the corresponding user, while x  ends the program.
 
-If a user is select, the application displays the user menu like the following:
+If a user is selected, the application displays the user menu like the following:
 
 User - John Doe
 
@@ -24,4 +24,4 @@ Please enter your choice:
 
 Based on the choice entered, the application performs the corresponding operation. For listing articles, only article titles should be displayed; for changing first name, last name, or email, the application should prompt for a new one.
 
-The application must be implemented using Node.js and MongoDB.
+The application is implemented using Node.js and MongoDB.
